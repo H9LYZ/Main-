@@ -1,4 +1,4 @@
-# Goober Ticket Bot 🎫
+# Ticket Bot 🎫 Made By Vexis/H9LYZ
 
 A Python-based Discord bot featuring a ticket management system with interactive buttons, custom category placement, and owner/admin toggle controls.
 
