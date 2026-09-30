@@ -19,16 +19,27 @@ A Python-based Discord bot featuring a ticket management system with interactive
 🚀 Setup & Installation
 
 1. Clone the repository and navigate into the folder:
+` ` `bash
 git clone https://github.com/H9LYZ/Ticket-Tool-Sleepy
 cd Ticket-Tool-Sleepy
+` ` `
 
-2. Delete the original README.md file inside the directory.
+2. Delete the original README.md file inside the directory:
+` ` `bash
+rm README.md
+` ` `
 
 3. Install dependencies:
+` ` `bash
 pip install -r requirements.txt
+` ` `
 
 4. Create a .env file and add your Discord bot token:
+` ` `env
 DISCORD_TOKEN=your_discord_bot_token_here
+` ` `
 
-5. Run the bot:
+6. Run the bot:
+` ` `bash
 python main.py
+` ` `
