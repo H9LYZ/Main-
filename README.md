@@ -28,4 +28,6 @@ A Python-based Discord bot featuring a ticket management system with interactive
 ### 1. Requirements
 Ensure you have Python 3.8+ installed, then install the dependencies:
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/H9LYZ/Ticket-Tool-Sleepy
+
+hu
